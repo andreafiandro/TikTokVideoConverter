@@ -12,7 +12,7 @@ It simply add padding upside and downside.
 
 The image below gives a roughly idea of how the script works:
 
-![VideoConverter](/mnt/F8AEE8A5AEE85D9E/Users/Fitec/Documents/Progetti/VerticalVideoConverter/images/VideoConverter.png)
+![VideoConverter](./images/VideoConverter.png)
 
 ## How to use it
 
